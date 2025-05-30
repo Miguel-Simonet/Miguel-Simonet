@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/3f/6c/df/3f6cdf9ded2f481ac6c185632c05d3b3.gif"  />
-</div>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 ###
 
